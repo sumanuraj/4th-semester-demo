@@ -1,2 +1,2 @@
-# 4th-semester-demo
+# DemoSemester6TH
 This is my first demo 
